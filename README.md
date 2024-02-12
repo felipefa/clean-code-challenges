@@ -7,5 +7,5 @@ The goal is to practice the concepts of Clean Code and improve the code quality 
 ---
 
 <p align="center">
-  Made with 💜 by Rocketseat and updated by [@felipefa](https://github.com/felipefa).
+  Made with 💜 by Rocketseat and updated by <a href="https://github.com/felipefa">@felipefa</a>.
 </p>
