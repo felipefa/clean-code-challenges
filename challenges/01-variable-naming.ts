@@ -1,4 +1,4 @@
-// Nomenclatura de variáveis
+// Variable naming
 
 const list = [
   {

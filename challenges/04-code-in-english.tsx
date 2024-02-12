@@ -1,4 +1,4 @@
-// Código em inglês 
+// Code in English
 import { useState } from "react"
 
 interface Product {

@@ -1,38 +1,11 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Clean Code Challenges
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+This project contains a series of coding challenges from Rocketseat's course about Clean Code.
 
-
-## 💻 Projeto
-
-ignite-clean-code-desafios
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+The goal is to practice the concepts of Clean Code and improve the code quality of the given challenges.
 
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
+  Made with 💜 by Rocketseat and updated by [@felipefa](https://github.com/felipefa).
 </p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-

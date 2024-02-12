@@ -1,4 +1,4 @@
-// Boleanos
+// Booleans
 
 const user = {
   name: 'Diego Fernandes',
